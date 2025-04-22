@@ -1,5 +1,3 @@
-# Dataset and Code for "Toolpath generation for high density spatial fiber printing guided by principal stresses"
-
 This repository accompanies the paper:
 
 **Tianyu Zhang*, Tao Liu*, Neelotpal Dutta, Yongxue Chen, Renbo Su, Zhizhou Zhang, Weiming Wang, and Charlie C.L. Wang**,  
@@ -18,7 +16,7 @@ Our proposed method achieves toolpath coverage between 87.5% and 90.6% for conti
 ---
 
 ## Repository Content
-- DataSet of models (curved layers \& CCF toolpath )
+- DataSet of models (Curved layers \& CCF strip toolpath )
 - Toolpath generation code (Coming soon!)
 
 ---
