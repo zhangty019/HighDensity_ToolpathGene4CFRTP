@@ -1,3 +1,9 @@
+# Dataset and Code for HighDensity_ToolpathGene4CFRTP
+
+<p align="center">
+  <img src="teaser.jpg" alt="Teaser Image" width="80%">
+</p>
+
 This repository accompanies the paper:
 
 *Tianyu Zhang, Tao Liu, Neelotpal Dutta, Yongxue Chen, Renbo Su, Zhizhou Zhang, Weiming Wang, and Charlie C.L. Wang*,  
