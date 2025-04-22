@@ -1,7 +1,7 @@
 This repository accompanies the paper:
 
-**Tianyu Zhang*, Tao Liu*, Neelotpal Dutta, Yongxue Chen, Renbo Su, Zhizhou Zhang, Weiming Wang, and Charlie C.L. Wang**,  
-*"Toolpath generation for high density spatial fiber printing guided by principal stresses,"*  
+*Tianyu Zhang, Tao Liu, Neelotpal Dutta, Yongxue Chen, Renbo Su, Zhizhou Zhang, Weiming Wang, and Charlie C.L. Wang*,  
+**"Toolpath generation for high density spatial fiber printing guided by principal stresses,"**  
 _Composites Part B: Engineering_, vol. 295, 112154 (17 pages), April 2025. 
 [[paper]](https://www.sciencedirect.com/science/article/pii/S1359836825000447?via%3Dihub) [[Video@YouTube]](https://www.youtube.com/watch?v=ylBgGtqyhDE)
 
