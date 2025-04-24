@@ -24,12 +24,14 @@ Our proposed method achieves toolpath coverage between 87.5% and 90.6% for conti
 
 ## Usage
 
+The installation steps are the same as those for [[S3-Slcier]](https://github.com/zhangty019/S3_DeformFDM).
+
 - Step 0: Click Button "0. Layer Offset" -> Conduct the offset of the curved layers;
-- Step 1: Click Button "1. Read Data" Read the curved layers;
-- Step 2: Click Button "2. Direction Field Optimization" Optimize the 2RoSy direction field;
-- Step 3: Click Button "3. Strip Pattern Generation" Generate strip pattern;
-- Step 4: Click Button "4. Strip Toolpath Generation" Extract toolpath from strip;
-- Step 5: Click Button "5. Post-processing for Toolpath" Post-processing;
+- Step 1: Click Button "1. Read Data" -> Read the curved layers;
+- Step 2: Click Button "2. Direction Field Optimization" -> Optimize the 2RoSy direction field;
+- Step 3: Click Button "3. Strip Pattern Generation" -> Generate strip pattern;
+- Step 4: Click Button "4. Strip Toolpath Generation" -> Extract toolpath from strip;
+- Step 5: Click Button "5. Post-processing for Toolpath" -> Improve the continuity and smoothness of the toolpath;
 - Step 6: Change the value of "Show Edge" to check the printing simulation of the CCF;
 
 ---
