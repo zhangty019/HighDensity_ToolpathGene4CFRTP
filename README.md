@@ -18,7 +18,7 @@ Our proposed method achieves toolpath coverage between 87.5% and 90.6% for conti
 
 ## Repository Content
 - DataSet of models (Curved layers \& CCF strip toolpath )
-- Toolpath generation code (Coming soon!)
+- Toolpath generation code
 
 ---
 
