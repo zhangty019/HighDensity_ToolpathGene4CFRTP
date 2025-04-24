@@ -28,7 +28,7 @@ Our proposed method achieves toolpath coverage between 87.5% and 90.6% for conti
 - Step 1: Read the curved layers;
 - Step 2: Optimize the 2RoSy field;
 - Step 3: Generate strip pattern;
-- Step 4: Extract toolpath from strip；
+- Step 4: Extract toolpath from strip;
 - Step 5: Post-processing;
 
 ---
