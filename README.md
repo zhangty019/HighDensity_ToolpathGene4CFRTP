@@ -24,7 +24,7 @@ Our proposed method achieves toolpath coverage between 87.5% and 90.6% for conti
 
 ## Usage
 
-The installation steps are the same as those for [[S3-Slcier]](https://github.com/zhangty019/S3_DeformFDM).
+The installation steps are the same as those for [[S3-Slicer]](https://github.com/zhangty019/S3_DeformFDM).
 
 - Step 0: Click Button "0. Layer Offset" -> Conduct the offset of the curved layers;
 - Step 1: Click Button "1. Read Data" -> Read the curved layers;
